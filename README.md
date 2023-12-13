@@ -1,6 +1,6 @@
 # Český lorem ipsum generátor
 
-Tento generátor byl vytvořen v rámci projektu v předmětu Programování ve 3. ročníku na SŠPEOL. Jedná se o generátor textu inspirovaný českým jazykem. Generátor jistě využijete v případě, kdyby Vás již nebavil klasický lorem ipsum text. Případně v situaci, ve které byste potřebovali generovat text s diakritikou. Například kdybyste vytvářeli textový font, který se bude používat na české texty.
+Tento generátor byl vytvořen v rámci projektu v předmětu Programování ve 3. ročníku na SPŠEOL. Jedná se o generátor textu inspirovaný českým jazykem. Generátor jistě využijete v případě, kdyby Vás již nebavil klasický lorem ipsum text. Případně v situaci, ve které byste potřebovali generovat text s diakritikou. Například kdybyste vytvářeli textový font, který se bude používat na české texty.
 
 ## Jak generátor spustím?
 
